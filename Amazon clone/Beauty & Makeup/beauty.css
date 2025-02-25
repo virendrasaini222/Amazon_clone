@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.results h2{
+    font-size: 20px;
+    margin-left: 20px;
+}
+#line1{
+    color: #565959;
+    margin-left: 20px;
+}
+.result-image{
+    height: 350px;
+    background-size: cover;
+}
+.boxx{
+    height: 650px;
+    width: 23%;
+    padding: 20px 0px 15px ;
+    background-color: #f6f6f6;
+    margin-bottom: 15px;
+    margin-left: 20px;
+    
+}
+.productName{
+    font-size:18px ;
+}
+.price{
+    font-size: 50px;
+}
+.detail{
+    color: #565959;
+}
+.rate{
+    display: flex;
+}
+.buyNow{
+    font-size: 20px;
+    margin: 10px 0 0 10px;
+    background-color: orange;
+    border-radius: 80px;
+    font-weight:500;
+    cursor: pointer;
+    border-color: orange;
+}
+.result-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+#imami{
+    width: 170px;
+    margin-left: 25%;
+}
+#lorial{
+    width: 130px;
+    margin-left: 25%;
+}
